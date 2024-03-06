@@ -1,8 +1,8 @@
 # Endgame
-endgame task - last part of ucode connect marathon.
-Packman like game writed on C using sdl2 and sdl2, sdl2.mixer, sdl2.ttf
+Endgame task - last part of ucode connect marathon.
+Packman like game writed on C using sdl2, sdl2.mixer and sdl2.ttf
 
-My teammates:
+My teammates(ucode nicks):
 ibardakov
 aperets
 vslipokuro
